@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ckFN5lPRphRg5dUj9c9vJba89mhbjGTwyXvWrN/MKDExFpKtjbWDFwe+2jhq02A1I0Nz34NKlA6X9fDL2w346A==",
+  "success": true,
+  "projectFilePath": "C:\\workshops\\invt.mngmt.sys\\invt.mngmt.sys.domain.tests\\invt.mngmt.sys.domain.tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roque\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Roque\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Roque\\.nuget\\packages\\nunit\\3.10.0\\nunit.3.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

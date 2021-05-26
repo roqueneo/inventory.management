@@ -1,0 +1,12 @@
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\bin\Debug\net5.0\invt.mngmt.sys.domain.deps.json
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\bin\Debug\net5.0\invt.mngmt.sys.domain.dll
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\bin\Debug\net5.0\ref\invt.mngmt.sys.domain.dll
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\bin\Debug\net5.0\invt.mngmt.sys.domain.pdb
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\obj\Debug\net5.0\invt.mngmt.sys.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\obj\Debug\net5.0\invt.mngmt.sys.domain.AssemblyInfoInputs.cache
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\obj\Debug\net5.0\invt.mngmt.sys.domain.AssemblyInfo.cs
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\obj\Debug\net5.0\invt.mngmt.sys.domain.csproj.CoreCompileInputs.cache
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\obj\Debug\net5.0\invt.mngmt.sys.domain.dll
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\obj\Debug\net5.0\ref\invt.mngmt.sys.domain.dll
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\obj\Debug\net5.0\invt.mngmt.sys.domain.pdb
+C:\workshops\invt.mngmt.sys\invt.mngmt.sys.domain\obj\Debug\net5.0\invt.mngmt.sys.domain.csprojAssemblyReference.cache
