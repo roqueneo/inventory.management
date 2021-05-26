@@ -246,23 +246,26 @@
   },
   "packageFolders": {
     "C:\\Users\\Roque\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workshops\\invt.mngmt.sys\\invt.mngmt.sys.domain.tests\\invt.mngmt.sys.domain.tests.csproj",
+      "projectUniqueName": "d:\\workshops\\invt.mngmt.sys\\invt.mngmt.sys.domain.tests\\invt.mngmt.sys.domain.tests.csproj",
       "projectName": "invt.mngmt.sys.domain.tests",
-      "projectPath": "C:\\workshops\\invt.mngmt.sys\\invt.mngmt.sys.domain.tests\\invt.mngmt.sys.domain.tests.csproj",
+      "projectPath": "d:\\workshops\\invt.mngmt.sys\\invt.mngmt.sys.domain.tests\\invt.mngmt.sys.domain.tests.csproj",
       "packagesPath": "C:\\Users\\Roque\\.nuget\\packages\\",
-      "outputPath": "C:\\workshops\\invt.mngmt.sys\\invt.mngmt.sys.domain.tests\\obj\\",
+      "outputPath": "d:\\workshops\\invt.mngmt.sys\\invt.mngmt.sys.domain.tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Roque\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -276,8 +279,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\workshops\\invt.mngmt.sys\\invt.mngmt.sys.domain\\invt.mngmt.sys.domain.csproj": {
-              "projectPath": "C:\\workshops\\invt.mngmt.sys\\invt.mngmt.sys.domain\\invt.mngmt.sys.domain.csproj"
+            "d:\\workshops\\invt.mngmt.sys\\invt.mngmt.sys.domain\\invt.mngmt.sys.domain.csproj": {
+              "projectPath": "d:\\workshops\\invt.mngmt.sys\\invt.mngmt.sys.domain\\invt.mngmt.sys.domain.csproj"
             }
           }
         }
@@ -312,7 +315,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
